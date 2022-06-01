@@ -30,21 +30,54 @@ function App() {
         <div className='lowersection'>
 
           <div className='lowersectionleft' >
+
             <div>  
-              <img/>
+              <img src='images/image-colton.jpg'></img>
              </div>
              <div>
-               <span></span>
-               <span></span> 
+               <span>  Colton Smith </span>
+               <span>Verified Buyer</span> 
                 
               </div>
-            <p></p>
+            <p>   "Put an order with this company and can only praise them for the very high
+                    standard. Will definitely use them again and recommend them to everyone!"</p>
             
           </div>
+
           <div className='lowersectionmiddle'>
+          
+
+          <div>  
+              <img src='images/image-colton.jpg'></img>
+             </div>
+             <div>
+               <span>  Anne Wallace  </span>
+               <span>Verified Buyer</span> 
+                
+              </div>
+            <p>  "We needed the same printed design as the one we had ordered a week prior.
+                Not only did they find the original order, but we also received it in time.
+                  Excellent!"
+            </p>
 
           </div>
+
+
           <div className='lowersectionright'>
+
+          <div>  
+              <img src='images/image-colton.jpg'></img>
+             </div>
+             <div>
+               <span>  Irene Roberts  </span>
+               <span>Verified Buyer</span> 
+                
+              </div>
+            <p>
+            "Customer service is always excellent and very quick turn around. Completely
+              delighted with the simplicity of the purchase and the speed of delivery."
+
+            </p>
 
           </div>
          
