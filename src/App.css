@@ -82,13 +82,15 @@
   background-color: rgb(81 31 80);
   padding: 40px;
   border-radius:10px;
-  
+  height: 60%;
 }
 .lowersectionmiddle{
   background-color: rgb(81 31 80);  
   margin-left: 1.5rem;
   padding: 40px;
   border-radius:10px;
+  margin-top:20px;
+  height: 60%;
 }
 
 .lowersectionright{
@@ -96,6 +98,8 @@
   background-color: rgb(81 31 80);
   padding: 40px;
   border-radius:10px;
+  margin-top: 30px;
+  height: 60%;
 }
 
 
