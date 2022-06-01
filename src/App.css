@@ -70,3 +70,55 @@
 .uppersectionright>p>span{
   margin-right: 18px;
 }
+
+
+.lowersection{
+  display:flex;
+  justify-content: space-between;
+  color: #ECD4F0;
+}
+
+.lowersectionleft{
+  background-color: rgb(81 31 80);
+  padding: 40px;
+  border-radius:10px;
+  
+}
+.lowersectionmiddle{
+  background-color: rgb(81 31 80);  
+  margin-left: 1.5rem;
+  padding: 40px;
+  border-radius:10px;
+}
+
+.lowersectionright{
+  margin-left: 1.5rem;
+  background-color: rgb(81 31 80);
+  padding: 40px;
+  border-radius:10px;
+}
+
+
+.imagediv{
+  display:flex;
+  
+}
+
+.namediv{
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  margin-left:20px;
+  justify-content: center;
+  
+}
+.namediv>span:nth-child(2){
+  color: rgb(167 94 147);
+}
+
+.imagediv > img{
+
+  width:40px;
+  border-radius:50%;
+  
+}
